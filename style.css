@@ -8,8 +8,15 @@ box-sizing: border-box;
     width: 1920px;
     height: 620px;
     background: #fff;
-    color: #fff;
     padding-top: 150px;
+}
+
+.color-white {
+    color: #fff;
+}
+
+.font-size-14 {
+    font-size: 14px;
 }
 
 footer {
@@ -17,7 +24,6 @@ footer {
     height: 420px;
     background: #121116;
     opacity: 1;
-    color: #fff;
 }
 
 .tittle-footer {
@@ -48,24 +54,8 @@ p {
     padding-bottom: 82px; 
 }
 
-.fa-facebook-f {
-   font-size: 14px;
-   color: #fff;
-}
-
 .fa-twitter {
     font-size: 11px;
-    color: #fff;
-}
-
-.fa-dribbble {
-    font-size: 14px;
-    color: #fff;
-}
-
-.fa-google-plus-g {
-    font-size: 14px;
-    color: #fff;
 }
 
 .copyright {
